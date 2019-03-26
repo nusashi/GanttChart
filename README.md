@@ -19,3 +19,5 @@
 ### github連携：
 1. ファイル名と同じ関数名を記述してはいけない。
 1. 仮に記述した場合にはプッシュプルでエラーが起こる。
+
+https://docs.google.com/spreadsheets/d/11INrYJOXQ0Ac2mnkEIzORdIS5LaZG84LVA_xHYxU5Tw/edit?usp=sharing
