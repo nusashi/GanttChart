@@ -1,4 +1,4 @@
-# HelloGASWorld
+# ガントチャート
 # GAS運用の際の備忘録
 
 ## GAS開発環境構築
